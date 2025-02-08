@@ -1,0 +1,47 @@
+{
+    "drivers": [
+      {"license_id": "100000001", "type": "บุคคลทั่วไป", "birthdate": "1960-05-10", "status": "ปกติ"},
+      {"license_id": "100000002", "type": "บุคคลทั่วไป", "birthdate": "1950-08-15", "status": "หมดอายุ"},
+      {"license_id": "100000003", "type": "บุคคลทั่วไป", "birthdate": "2008-12-20", "status": "ถูกระงับ"},
+      {"license_id": "100000004", "type": "บุคคลทั่วไป", "birthdate": "1975-02-25", "status": "ปกติ"},
+      {"license_id": "100000005", "type": "บุคคลทั่วไป", "birthdate": "1955-06-30", "status": "หมดอายุ"},
+      {"license_id": "100000006", "type": "บุคคลทั่วไป", "birthdate": "1968-11-11", "status": "ปกติ"},
+      {"license_id": "100000007", "type": "บุคคลทั่วไป", "birthdate": "2005-09-05", "status": "ปกติ"},
+      {"license_id": "100000008", "type": "บุคคลทั่วไป", "birthdate": "1949-04-22", "status": "หมดอายุ"},
+      {"license_id": "100000009", "type": "บุคคลทั่วไป", "birthdate": "2007-01-17", "status": "ปกติ"},
+      {"license_id": "100000010", "type": "บุคคลทั่วไป", "birthdate": "1963-07-09", "status": "ปกติ"},
+  
+      {"license_id": "200000011", "type": "มือใหม่", "birthdate": "1980-03-12", "status": "ปกติ"},
+      {"license_id": "200000012", "type": "มือใหม่", "birthdate": "1972-08-22", "status": "ปกติ"},
+      {"license_id": "200000013", "type": "มือใหม่", "birthdate": "1969-05-05", "status": "หมดอายุ"},
+      {"license_id": "200000014", "type": "มือใหม่", "birthdate": "2010-10-10", "status": "ถูกระงับ"},
+      {"license_id": "200000015", "type": "มือใหม่", "birthdate": "1995-12-01", "status": "ปกติ"},
+      {"license_id": "200000016", "type": "มือใหม่", "birthdate": "1974-06-18", "status": "ปกติ"},
+      {"license_id": "200000017", "type": "มือใหม่", "birthdate": "1985-09-23", "status": "ปกติ"},
+      {"license_id": "200000018", "type": "มือใหม่", "birthdate": "2012-04-30", "status": "ถูกระงับ"},
+      {"license_id": "200000019", "type": "มือใหม่", "birthdate": "2003-07-07", "status": "ปกติ"},
+      {"license_id": "200000020", "type": "มือใหม่", "birthdate": "1970-11-15", "status": "หมดอายุ"},
+  
+      {"license_id": "300000021", "type": "คนขับรถสาธารณะ", "birthdate": "1982-01-01", "status": "ปกติ", "complaints": 3},
+      {"license_id": "300000022", "type": "คนขับรถสาธารณะ", "birthdate": "1990-02-02", "status": "ปกติ", "complaints": 1},
+      {"license_id": "300000023", "type": "คนขับรถสาธารณะ", "birthdate": "1963-03-03", "status": "หมดอายุ", "complaints": 4},
+      {"license_id": "300000024", "type": "คนขับรถสาธารณะ", "birthdate": "2005-04-04", "status": "ถูกระงับ", "complaints": 6},
+      {"license_id": "300000025", "type": "คนขับรถสาธารณะ", "birthdate": "1998-05-05", "status": "ปกติ", "complaints": 2},
+      {"license_id": "300000026", "type": "คนขับรถสาธารณะ", "birthdate": "1978-06-06", "status": "ปกติ", "complaints": 5},
+      {"license_id": "300000027", "type": "คนขับรถสาธารณะ", "birthdate": "1959-07-07", "status": "หมดอายุ", "complaints": 7},
+      {"license_id": "300000028", "type": "คนขับรถสาธารณะ", "birthdate": "2002-08-08", "status": "ปกติ", "complaints": 0},
+      {"license_id": "300000029", "type": "คนขับรถสาธารณะ", "birthdate": "1988-09-09", "status": "ปกติ", "complaints": 4},
+      {"license_id": "300000030", "type": "คนขับรถสาธารณะ", "birthdate": "2000-10-10", "status": "ปกติ", "complaints": 3},
+  
+      {"license_id": "400000031", "type": "บุคคลทั่วไป", "birthdate": "1977-11-11", "status": "ปกติ"},
+      {"license_id": "400000032", "type": "บุคคลทั่วไป", "birthdate": "1965-12-12", "status": "ปกติ"},
+      {"license_id": "400000033", "type": "บุคคลทั่วไป", "birthdate": "2009-01-13", "status": "ถูกระงับ"},
+      {"license_id": "400000034", "type": "มือใหม่", "birthdate": "1989-02-14", "status": "ปกติ"},
+      {"license_id": "400000035", "type": "มือใหม่", "birthdate": "1971-03-15", "status": "หมดอายุ"},
+      {"license_id": "400000036", "type": "มือใหม่", "birthdate": "2011-04-16", "status": "ถูกระงับ"},
+      {"license_id": "400000037", "type": "คนขับรถสาธารณะ", "birthdate": "1993-05-17", "status": "ปกติ", "complaints": 3},
+      {"license_id": "400000038", "type": "คนขับรถสาธารณะ", "birthdate": "1960-06-18", "status": "หมดอายุ", "complaints": 8},
+      {"license_id": "400000039", "type": "คนขับรถสาธารณะ", "birthdate": "1997-07-19", "status": "ปกติ", "complaints": 2},
+      {"license_id": "400000040", "type": "คนขับรถสาธารณะ", "birthdate": "2001-08-20", "status": "ปกติ", "complaints": 1}
+    ]
+  }
